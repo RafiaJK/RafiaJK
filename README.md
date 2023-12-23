@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://rafia-khandaker.netlify.app/](https://rafia-khandaker.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rafiakhandaker.netlify.app/](https://rafia-khandaker.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@rafiakhandaker](https://medium.com/@rafiakhandaker)
 
