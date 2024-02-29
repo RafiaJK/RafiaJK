@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [amping up my portfolio](https://github.com/RafiaJK/portfolio)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Figma**
 
-- 👨‍💻 All of my projects are available at [https://rafiakhandaker.netlify.app/](https://rafia-khandaker.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rafiakhandaker.netlify.app/](https://rafiakhandaker.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@rafiakhandaker](https://medium.com/@rafiakhandaker)
 
